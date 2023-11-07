@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  7 NOV 2023 22:24
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  7 NOV 2023 22:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -962,7 +962,7 @@ Package amsthm Warning: Unknown theoremstyle `theorem' on input line 116.
 LaTeX Warning: Unused global option(s):
     [oneside,12pt].
 
-(./AUTthesis.aux (./chapter1.aux))
+(./AUTthesis.aux (./chapter1.aux) (./chapter2.aux))
 \openout1 = `AUTthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
@@ -1198,24 +1198,51 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5] (./AUTthesis.bbl
+[5]
+\openout2 = `chapter2.aux'.
+
+ (./chapter2.tex
+فصل 2.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6
+
+
+
+
+])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7] (./AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
-) [6
+) [8
 
 
 
-] (./AUTthesis.aux (./chapter1.aux))
+] (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux))
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 979722C5915BA59D05742279A1EB1115;1964.
+(rerunfilecheck)             Checksum: C25662F22EB12C1F50B57BF8CC92595E;2176.
  ) 
 Here is how much of TeX's memory you used:
- 18027 strings out of 476683
- 361786 string characters out of 5807575
+ 18056 strings out of 476683
+ 362543 string characters out of 5807575
  1852012 words of memory out of 5000000
- 37860 multiletter control sequences out of 15000+600000
+ 37882 multiletter control sequences out of 15000+600000
  521670 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  92i,12n,94p,2406b,393s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AUTthesis.pdf (11 pages).
+Output written on AUTthesis.pdf (13 pages).

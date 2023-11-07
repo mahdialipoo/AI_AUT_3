@@ -15,5 +15,6 @@
 \contentsline {section}{\numberline {1-5}تابع ارزیابی و عمق جست و جو}{5}{section.1.5}%
 \contentsline {section}{\numberline {1-6}عملکرد الگوریتم}{5}{section.1.6}%
 \contentsline {section}{\numberline {1-7}لینک گیت هاب کد}{5}{section.1.7}%
-\contentsline {chapter}{مراجع}{6}{appendix*.3}%
+\contentsline {chapter}{\numberline {2}جمع بندی و نتیجه گیری}{6}{chapter.2}%
+\contentsline {chapter}{مراجع}{8}{appendix*.3}%
 \contentsfinish 
